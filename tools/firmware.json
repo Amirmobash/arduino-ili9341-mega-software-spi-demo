@@ -1,0 +1,13 @@
+{
+  "core": "arduino:avr@1.8.6",
+  "fqbn": "arduino:avr:mega",
+  "libs": [
+    "Adafruit BusIO@1.17.0",
+    "Adafruit GFX Library@1.12.1",
+    "Adafruit ILI9341@1.6.2"
+  ],
+  "sources": [
+    "ILI9341_SoftwareSPI_Test.ino",
+    "TFT_TEST.ino"
+  ]
+}
