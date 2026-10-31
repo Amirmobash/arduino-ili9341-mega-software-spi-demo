@@ -50,3 +50,7 @@ Both programs define `setup()` and `loop()`. Opening the repository root as one 
 No physical testing, new hardware photographs or measured electrical/optical
 performance is claimed. Retain the author attribution and existing license/source
 notices when reusing the project.
+
+## License
+
+This project is open source and available under the MIT License.
