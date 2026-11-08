@@ -1,5 +1,11 @@
 # ILI9341 software SPI demo for Arduino Mega 2560
 
+
+<p align="center"><img src="docs/images/arduino-mega-2560-ili9341-software-spi-tft.svg" alt="Arduino Mega 2560 Adafruit ILI9341 software SPI color graphics demo" width="960" /></p>
+
+<sub>Conceptual illustration; not a verified hardware photograph or exact CAD export.</sub>
+
+
 A small Adafruit ILI9341/GFX display demo that uses software SPI for flexible pin assignments. Author: **Amir Mobasheraghdam**, University of Isfahan.
 
 ## Reproducible build
